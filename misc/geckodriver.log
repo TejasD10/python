@@ -1,0 +1,1520 @@
+1524169805129	geckodriver	INFO	geckodriver 0.20.1
+1524169805144	geckodriver	INFO	Listening on 127.0.0.1:49730
+1524169808233	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.Y6SFHQsjLmCb"
+1524169811740	Marionette	INFO	Enabled via --marionette
+1524169814332	Marionette	INFO	Listening on port 49738
+1524169814576	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+1524169966752	geckodriver	INFO	geckodriver 0.20.1
+1524169966767	geckodriver	INFO	Listening on 127.0.0.1:49860
+1524169969809	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.gauWVd2BTnV3"
+1524169970510	Marionette	INFO	Enabled via --marionette
+1524169972676	Marionette	INFO	Listening on port 49871
+1524169973232	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+1524172004980	geckodriver	INFO	geckodriver 0.20.1
+1524172004980	geckodriver	INFO	Listening on 127.0.0.1:50878
+1524172008054	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.XXLumz34WCZ8"
+1524172008938	Marionette	INFO	Enabled via --marionette
+1524172011504	Marionette	INFO	Listening on port 50889
+1524172011868	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+1524172071817	geckodriver	INFO	geckodriver 0.20.1
+1524172071833	geckodriver	INFO	Listening on 127.0.0.1:50995
+1524172074922	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.VhRunMAFr7wi"
+1524172075600	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524172077612	Marionette	INFO	Listening on port 51006
+1524172078164	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14228, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 23236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524172139640	geckodriver	INFO	geckodriver 0.20.1
+1524172139656	geckodriver	INFO	Listening on 127.0.0.1:51113
+1524172142682	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.iSPFfHaGymfc"
+1524172143396	Marionette	INFO	Enabled via --marionette
+1524172145600	Marionette	INFO	Listening on port 51125
+1524172145920	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 24060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524172171858	geckodriver	INFO	geckodriver 0.20.1
+1524172171874	geckodriver	INFO	Listening on 127.0.0.1:51202
+1524172174916	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.pOmm4OSZY65V"
+1524172175566	Marionette	INFO	Enabled via --marionette
+1524172177680	Marionette	INFO	Listening on port 51213
+1524172178284	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+1524172213420	geckodriver	INFO	geckodriver 0.20.1
+1524172213436	geckodriver	INFO	Listening on 127.0.0.1:51299
+1524172216525	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.Glw3yzgUKNfC"
+1524172217234	Marionette	INFO	Enabled via --marionette
+1524172219330	Marionette	INFO	Listening on port 51310
+1524172219704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524172498405	geckodriver	INFO	geckodriver 0.20.1
+1524172498421	geckodriver	INFO	Listening on 127.0.0.1:51683
+1524172501463	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.mST2zRKbyBd0"
+1524172502196	Marionette	INFO	Enabled via --marionette
+1524172504072	Marionette	INFO	Listening on port 51694
+1524172504714	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+1524172767262	geckodriver	INFO	geckodriver 0.20.1
+1524172767278	geckodriver	INFO	Listening on 127.0.0.1:52125
+1524172770320	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.lkRbQY0txSSy"
+1524172771072	Marionette	INFO	Enabled via --marionette
+1524172773202	Marionette	INFO	Listening on port 52137
+1524172773666	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 24248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524172894445	geckodriver	INFO	geckodriver 0.20.1
+1524172894460	geckodriver	INFO	Listening on 127.0.0.1:52353
+1524172897502	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.qQacgd6STLP7"
+1524172898274	Marionette	INFO	Enabled via --marionette
+1524172900292	Marionette	INFO	Listening on port 52364
+1524172900832	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 123ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1524173508791	geckodriver	INFO	geckodriver 0.20.1
+1524173508807	geckodriver	INFO	Listening on 127.0.0.1:52610
+1524173511849	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.TfuZajp2peAo"
+1524173512602	Marionette	INFO	Enabled via --marionette
+1524173514784	Marionette	INFO	Listening on port 52618
+1524173515056	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524174011363	geckodriver	INFO	geckodriver 0.20.1
+1524174011378	geckodriver	INFO	Listening on 127.0.0.1:52798
+1524174014420	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.icTzlfktNqsz"
+1524174015236	Marionette	INFO	Enabled via --marionette
+1524174017468	Marionette	INFO	Listening on port 52806
+1524174017598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524174018124	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/TDesai/AppData/Local/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/TDesai/AppData/Local/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279 < GeckoDriver.prototype.quit()@driver.js:3270 < despatch()@server.js:557 < execute()@server.js:531 < onPacket/<()@server.js:506 < onPacket()@server.js:505 < _onJSONObjectReady/<()@transport.js:500
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 23908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 23908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524174118322	geckodriver	INFO	geckodriver 0.20.1
+1524174118337	geckodriver	INFO	Listening on 127.0.0.1:52918
+1524174121379	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.VZ6n538kvDEl"
+1524174122138	Marionette	INFO	Enabled via --marionette
+1524174124328	Marionette	INFO	Listening on port 52926
+1524174124674	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524174311457	geckodriver	INFO	geckodriver 0.20.1
+1524174311473	geckodriver	INFO	Listening on 127.0.0.1:53063
+1524174314515	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.xcCK2ClxKaNa"
+1524174315308	Marionette	INFO	Enabled via --marionette
+1524174318028	Marionette	INFO	Listening on port 53071
+1524174318422	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 25108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524174659160	geckodriver	INFO	geckodriver 0.20.1
+1524174659176	geckodriver	INFO	Listening on 127.0.0.1:53228
+1524174662218	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.Ebzv8MNVV6wq"
+1524174662980	Marionette	INFO	Enabled via --marionette
+1524174665332	Marionette	INFO	Listening on port 53236
+1524174665460	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 24156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Promise rejected while context is inactive: Message manager disconnected
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524174684889	geckodriver	INFO	geckodriver 0.20.1
+1524174684904	geckodriver	INFO	Listening on 127.0.0.1:53348
+1524174687962	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.SqYHl6nBRkji"
+1524174688704	Marionette	INFO	Enabled via --marionette
+1524174691062	Marionette	INFO	Listening on port 53356
+1524174691208	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 25184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 21328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+1524174735251	geckodriver	INFO	geckodriver 0.20.1
+1524174735267	geckodriver	INFO	Listening on 127.0.0.1:53470
+1524174738309	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.OnBMPioHs9Rg"
+1524174739068	Marionette	INFO	Enabled via --marionette
+1524174741298	Marionette	INFO	Listening on port 53478
+1524174741532	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 23788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524174795801	geckodriver	INFO	geckodriver 0.20.1
+1524174795817	geckodriver	INFO	Listening on 127.0.0.1:53596
+1524174798859	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.6T564lnu3KIy"
+1524174799608	Marionette	INFO	Enabled via --marionette
+1524174801926	Marionette	INFO	Listening on port 53604
+1524174802164	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 21628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524174861030	geckodriver	INFO	geckodriver 0.20.1
+1524174861045	geckodriver	INFO	Listening on 127.0.0.1:53735
+1524174864134	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.Q6Ndl315iBOr"
+1524174864900	Marionette	INFO	Enabled via --marionette
+1524174867582	Marionette	INFO	Listening on port 53743
+1524174867906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524175095961	geckodriver	INFO	geckodriver 0.20.1
+1524175095977	geckodriver	INFO	Listening on 127.0.0.1:54055
+1524175099034	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.0QyLXRLzwnrD"
+1524175099796	Marionette	INFO	Enabled via --marionette
+1524175102306	Marionette	INFO	Listening on port 54063
+1524175102346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524175121005	geckodriver	INFO	geckodriver 0.20.1
+1524175121021	geckodriver	INFO	Listening on 127.0.0.1:54181
+1524175124078	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.xCMa1WmlQxL1"
+1524175124830	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524175127252	Marionette	INFO	Listening on port 54190
+1524175127578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524175664837	geckodriver	INFO	geckodriver 0.20.1
+1524175664852	geckodriver	INFO	Listening on 127.0.0.1:54535
+1524175667942	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.M5wea3pF3Dsd"
+1524175668850	Marionette	INFO	Enabled via --marionette
+1524175670828	Marionette	INFO	Listening on port 54544
+1524175671366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524175672992	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/TDesai/AppData/Local/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/TDesai/AppData/Local/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279 < GeckoDriver.prototype.quit()@driver.js:3270 < despatch()@server.js:557 < execute()@server.js:531 < onPacket/<()@server.js:506 < onPacket()@server.js:505 < _onJSONObjectReady/<()@transport.js:500
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 24676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 21552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524175836021	geckodriver	INFO	geckodriver 0.20.1
+1524175836037	geckodriver	INFO	Listening on 127.0.0.1:54663
+1524175839111	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.wM15icfz9URb"
+1524175839934	Marionette	INFO	Enabled via --marionette
+1524175842206	Marionette	INFO	Listening on port 54674
+1524175842312	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524175898723	geckodriver	INFO	geckodriver 0.20.1
+1524175898739	geckodriver	INFO	Listening on 127.0.0.1:54771
+1524175901781	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.pof0BO8Pm8F1"
+1524175902548	Marionette	INFO	Enabled via --marionette
+1524175904448	Marionette	INFO	Listening on port 54782
+1524175905006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524176028101	geckodriver	INFO	geckodriver 0.20.1
+1524176028117	geckodriver	INFO	Listening on 127.0.0.1:54919
+1524176031174	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.KPYat2RyGcvt"
+1524176031932	Marionette	INFO	Enabled via --marionette
+1524176034312	Marionette	INFO	Listening on port 54927
+1524176034506	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524176192056	geckodriver	INFO	geckodriver 0.20.1
+1524176192056	geckodriver	INFO	Listening on 127.0.0.1:55026
+1524176195114	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.fQ7lSKVCCQQi"
+1524176195878	Marionette	INFO	Enabled via --marionette
+1524176197884	Marionette	INFO	Listening on port 55034
+1524176198446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524176288736	geckodriver	INFO	geckodriver 0.20.1
+1524176288751	geckodriver	INFO	Listening on 127.0.0.1:55157
+1524176291825	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.LYre2lDMXakt"
+1524176292592	Marionette	INFO	Enabled via --marionette
+1524176294666	Marionette	INFO	Listening on port 55166
+1524176295108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524176372918	geckodriver	INFO	geckodriver 0.20.1
+1524176372933	geckodriver	INFO	Listening on 127.0.0.1:55316
+1524176375976	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.f8EyzZnFTKGV"
+1524176376758	Marionette	INFO	Enabled via --marionette
+1524176378634	Marionette	INFO	Listening on port 55324
+1524176379230	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 21840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 19084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://authvchnform.cognizant.com/vpn/adrum.js, line 14: NetworkError: A network error occurred.
+[Child 18072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524176413374	geckodriver	INFO	geckodriver 0.20.1
+1524176413390	geckodriver	INFO	Listening on 127.0.0.1:55386
+1524176416447	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.L4laCNL1GVq2"
+1524176417214	Marionette	INFO	Enabled via --marionette
+1524176419380	Marionette	INFO	Listening on port 55394
+1524176419774	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://authvchnform.cognizant.com/vpn/adrum.js, line 14: NetworkError: A network error occurred.
+[Child 25572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+1524176455746	geckodriver	INFO	geckodriver 0.20.1
+1524176455746	geckodriver	INFO	Listening on 127.0.0.1:55455
+1524176458835	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.0PNFnJSk49iL"
+1524176459552	Marionette	INFO	Enabled via --marionette
+1524176461570	Marionette	INFO	Listening on port 55463
+1524176462182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524176574890	geckodriver	INFO	geckodriver 0.20.1
+1524176574905	geckodriver	INFO	Listening on 127.0.0.1:55559
+1524176577947	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.cmahWaUvy8cQ"
+1524176578680	Marionette	INFO	Enabled via --marionette
+1524176580722	Marionette	INFO	Listening on port 55568
+1524176581450	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://compass.esa.cognizant.com/ESA89PRD/adrum-ext.2aed9d091ef08efa95822e864b4554d2.js, line 28: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 521: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 526: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 521: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 526: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 25580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 25580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 25580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 25580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_CTXMENU_win0_MIN_1.js, line 461: unreachable code after return statement
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://compass.esa.cognizant.com/psc/ESA89PRD/EMPLOYEE/ERP/c/ADMINISTER_EXPENSE_FUNCTIONS.TE_TIME_ENTRY.GBL?Page=TE_TIME_MAIN&Action=A&EMPLID=430663&PERIOD_END_DT=2018-04-20&TIME_SHEET_ID=NEXT&VERSION_NUM=1&PortalActualURL=https%3a%2f%2fcompass.esa.cognizant.com%2fpsc%2fESA89PRD%2fEMPLOYEE%2fERP%2fc%2fADMINISTER_EXPENSE_FUNCTIONS.TE_TIME_ENTRY.GBL%3fPage%3dTE_TIME_MAIN%26Action%3dA%26EMPLID%3d430663%26PERIOD_END_DT%3d2018-04-20%26TIME_SHEET_ID%3dNEXT%26VERSION_NUM%3d1&PortalContentURL=https%3a%2f%2fcompass.esa.cognizant.com%2fpsc%2fESA89PRD%2fEMPLOYEE%2fERP%2fc%2fADMINISTER_EXPENSE_FUNCTIONS.TE_TIME_ENTRY.GBL&PortalContentProvider=ERP&PortalCRefLabel=Create&PortalRegistryName=EMPLOYEE&PortalServletURI=https%3a%2f%2fcompass.esa.cognizant.com%2fpsp%2fESA89PRD%2f&PortalURI=https%3a%2f%2fcompass.esa.cognizant.com%2fpsc%2fESA89PRD%2f&PortalHostNode=ERP&NoCrumbs=yes&PortalKeyStruct=yes, line 1099: TypeError: document.getElementById(...) is null
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1524176712742	geckodriver	INFO	geckodriver 0.20.1
+1524176712757	geckodriver	INFO	Listening on 127.0.0.1:55857
+1524176715799	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.v8vW0Lgy6bLy"
+1524176716530	Marionette	INFO	Enabled via --marionette
+1524176718464	Marionette	INFO	Listening on port 55869
+1524176719068	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 25164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 3812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+1524177129555	geckodriver	INFO	geckodriver 0.20.1
+1524177129570	geckodriver	INFO	Listening on 127.0.0.1:56370
+1524177132628	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.gQRHJ9VzQsj9"
+1524177133442	Marionette	INFO	Enabled via --marionette
+1524177135576	Marionette	INFO	Listening on port 56381
+1524177136006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524177269789	geckodriver	INFO	geckodriver 0.20.1
+1524177269805	geckodriver	INFO	Listening on 127.0.0.1:56584
+1524177272863	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.xcRNEDc9mwt9"
+1524177273602	Marionette	INFO	Enabled via --marionette
+1524177275638	Marionette	INFO	Listening on port 56598
+1524177276192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524177334130	geckodriver	INFO	geckodriver 0.20.1
+1524177334162	geckodriver	INFO	Listening on 127.0.0.1:56735
+1524177337219	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.uMiQyZvYjtZ0"
+1524177338004	Marionette	INFO	Enabled via --marionette
+1524177340146	Marionette	INFO	Listening on port 56746
+1524177340596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524177442462	geckodriver	INFO	geckodriver 0.20.1
+1524177442478	geckodriver	INFO	Listening on 127.0.0.1:56940
+1524177445520	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.2FB1zlLHWNWL"
+1524177446196	Marionette	INFO	Enabled via --marionette
+1524177448100	Marionette	INFO	Listening on port 56953
+1524177448788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524177560576	geckodriver	INFO	geckodriver 0.20.1
+1524177560591	geckodriver	INFO	Listening on 127.0.0.1:57122
+1524177563634	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.vkScUgSO2Hog"
+1524177564350	Marionette	INFO	Enabled via --marionette
+1524177566300	Marionette	INFO	Listening on port 57130
+1524177566950	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://compass.esa.cognizant.com/ESA89PRD/adrum-ext.2aed9d091ef08efa95822e864b4554d2.js, line 28: SecurityError: Permission denied to access property "document" on cross-origin object
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+1524177690702	geckodriver	INFO	geckodriver 0.20.1
+1524177690718	geckodriver	INFO	Listening on 127.0.0.1:57235
+1524177693807	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.5n12FulfpGxk"
+1524177694528	Marionette	INFO	Enabled via --marionette
+1524177696426	Marionette	INFO	Listening on port 57243
+1524177697122	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://authvchnform.cognizant.com/vpn/adrum.js, line 14: NetworkError: A network error occurred.
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 24896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524177747210	geckodriver	INFO	geckodriver 0.20.1
+1524177747226	geckodriver	INFO	Listening on 127.0.0.1:57303
+1524177750284	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.xceNPtSZN5cm"
+1524177750960	Marionette	INFO	Enabled via --marionette
+1524177752902	Marionette	INFO	Listening on port 57311
+1524177753506	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://compass.esa.cognizant.com/ESA89PRD/adrum-ext.2aed9d091ef08efa95822e864b4554d2.js, line 28: SecurityError: Permission denied to access property "document" on cross-origin object
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+1524178215506	geckodriver	INFO	geckodriver 0.20.1
+1524178215522	geckodriver	INFO	Listening on 127.0.0.1:57469
+1524178218610	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.KXQ62dzyDVZu"
+1524178219344	Marionette	INFO	Enabled via --marionette
+1524178221528	Marionette	INFO	Listening on port 57477
+1524178221912	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://compass.esa.cognizant.com/ESA89PRD/adrum-ext.2aed9d091ef08efa95822e864b4554d2.js, line 28: SecurityError: Permission denied to access property "document" on cross-origin object
+1524178352378	geckodriver	INFO	geckodriver 0.20.1
+1524178352394	geckodriver	INFO	Listening on 127.0.0.1:57573
+1524178355436	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.bIKLAurYQP5w"
+1524178356136	Marionette	INFO	Enabled via --marionette
+1524178358084	Marionette	INFO	Listening on port 57581
+1524178358892	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://compass.esa.cognizant.com/ESA89PRD/adrum-ext.2aed9d091ef08efa95822e864b4554d2.js, line 28: SecurityError: Permission denied to access property "document" on cross-origin object
+1524178479621	geckodriver	INFO	geckodriver 0.20.1
+1524178479621	geckodriver	INFO	Listening on 127.0.0.1:57791
+1524178482679	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.Rc9qYubfrClu"
+1524178483372	Marionette	INFO	Enabled via --marionette
+1524178485242	Marionette	INFO	Listening on port 57799
+1524178486010	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 25628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://authvchnform.cognizant.com/vpn/adrum.js, line 14: NetworkError: A network error occurred.
+[Child 20936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 17724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+1524178513227	geckodriver	INFO	geckodriver 0.20.1
+1524178513243	geckodriver	INFO	Listening on 127.0.0.1:57863
+1524178516285	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.C7ZYIe7vNQEO"
+1524178516968	Marionette	INFO	Enabled via --marionette
+1524178518924	Marionette	INFO	Listening on port 57871
+1524178519692	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://compass.esa.cognizant.com/ESA89PRD/adrum-ext.2aed9d091ef08efa95822e864b4554d2.js, line 28: SecurityError: Permission denied to access property "document" on cross-origin object
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 521: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 526: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+1524257197417	geckodriver	INFO	geckodriver 0.20.1
+1524257197439	geckodriver	INFO	Listening on 127.0.0.1:62310
+1524257200440	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.ZUZDTVctvogZ"
+1524257201218	Marionette	INFO	Enabled via --marionette
+1524257203458	Marionette	INFO	Listening on port 62318
+1524257203664	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+1524257391735	geckodriver	INFO	geckodriver 0.20.1
+1524257391750	geckodriver	INFO	Listening on 127.0.0.1:62451
+1524257394802	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.GOcM7Zky4Uav"
+1524257395522	Marionette	INFO	Enabled via --marionette
+1524257397866	Marionette	INFO	Listening on port 62461
+1524257398024	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://compass.esa.cognizant.com/ESA89PRD/adrum-ext.2aed9d091ef08efa95822e864b4554d2.js, line 28: SecurityError: Permission denied to access property "document" on cross-origin object
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 28376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 29376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 27532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x490006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1524257826448	geckodriver	INFO	geckodriver 0.20.1
+1524257826461	geckodriver	INFO	Listening on 127.0.0.1:63079
+1524257829477	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.YmF1zK2ve4rJ"
+1524257830282	Marionette	INFO	Enabled via --marionette
+1524257832402	Marionette	INFO	Listening on port 63090
+1524257832748	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://compass.esa.cognizant.com/ESA89PRD/adrum-ext.2aed9d091ef08efa95822e864b4554d2.js, line 28: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 521: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 526: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 27456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 28720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 27752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524258561222	geckodriver	INFO	geckodriver 0.20.1
+1524258561235	geckodriver	INFO	Listening on 127.0.0.1:63410
+1524258564250	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.VxfK4go4VGOn"
+1524258564988	Marionette	INFO	Enabled via --marionette
+1524258567376	Marionette	INFO	Listening on port 63418
+1524258567542	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://compass.esa.cognizant.com/ESA89PRD/adrum-ext.2aed9d091ef08efa95822e864b4554d2.js, line 28: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 521: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 526: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+1524258740615	geckodriver	INFO	geckodriver 0.20.1
+1524258740631	geckodriver	INFO	Listening on 127.0.0.1:63655
+1524258743645	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.iqcbsezhIusf"
+1524258744362	Marionette	INFO	Enabled via --marionette
+1524258746466	Marionette	INFO	Listening on port 63666
+1524258746978	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://authvchnform.cognizant.com/vpn/adrum.js, line 14: NetworkError: A network error occurred.
+[Child 23232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 29304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+1524259010014	geckodriver	INFO	geckodriver 0.20.1
+1524259010028	geckodriver	INFO	Listening on 127.0.0.1:64034
+1524259013067	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.vVdo7Ym1n2tW"
+1524259013858	Marionette	INFO	Enabled via --marionette
+1524259016116	Marionette	INFO	Listening on port 64045
+1524259016298	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524259040004	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 25232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 27528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+1524259172796	geckodriver	INFO	geckodriver 0.20.1
+1524259172808	geckodriver	INFO	Listening on 127.0.0.1:64275
+1524259175866	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.7kh3L31XxJMr"
+1524259176614	Marionette	INFO	Enabled via --marionette
+1524259178736	Marionette	INFO	Listening on port 64283
+1524259179098	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 521: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 526: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+JavaScript error: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 3030: SecurityError: Permission denied to access property "frameElement" on cross-origin object
+JavaScript error: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 3030: SecurityError: Permission denied to access property "frameElement" on cross-origin object
+JavaScript error: https://compass.esa.cognizant.com/ESA89PRD/adrum-ext.2aed9d091ef08efa95822e864b4554d2.js, line 28: SecurityError: Permission denied to access property "document" on cross-origin object
+1524259271963	geckodriver	INFO	geckodriver 0.20.1
+1524259271980	geckodriver	INFO	Listening on 127.0.0.1:64400
+1524259275005	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.EDQExdLJFBzE"
+1524259275744	Marionette	INFO	Enabled via --marionette
+1524259277918	Marionette	INFO	Listening on port 64408
+1524259278200	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 521: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 526: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+JavaScript error: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 3030: SecurityError: Permission denied to access property "frameElement" on cross-origin object
+JavaScript error: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 3030: SecurityError: Permission denied to access property "frameElement" on cross-origin object
+JavaScript error: https://compass.esa.cognizant.com/ESA89PRD/adrum-ext.2aed9d091ef08efa95822e864b4554d2.js, line 28: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 521: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 526: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_CTXMENU_win0_MIN_1.js, line 461: unreachable code after return statement
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://compass.esa.cognizant.com/psc/ESA89PRD/EMPLOYEE/ERP/c/ADMINISTER_EXPENSE_FUNCTIONS.TE_TIME_ENTRY.GBL?Page=TE_TIME_MAIN&Action=A&EMPLID=430663&PERIOD_END_DT=2018-04-27&TIME_SHEET_ID=NEXT&VERSION_NUM=1&PortalActualURL=https%3a%2f%2fcompass.esa.cognizant.com%2fpsc%2fESA89PRD%2fEMPLOYEE%2fERP%2fc%2fADMINISTER_EXPENSE_FUNCTIONS.TE_TIME_ENTRY.GBL%3fPage%3dTE_TIME_MAIN%26Action%3dA%26EMPLID%3d430663%26PERIOD_END_DT%3d2018-04-27%26TIME_SHEET_ID%3dNEXT%26VERSION_NUM%3d1&PortalContentURL=https%3a%2f%2fcompass.esa.cognizant.com%2fpsc%2fESA89PRD%2fEMPLOYEE%2fERP%2fc%2fADMINISTER_EXPENSE_FUNCTIONS.TE_TIME_ENTRY.GBL&PortalContentProvider=ERP&PortalCRefLabel=Create&PortalRegistryName=EMPLOYEE&PortalServletURI=https%3a%2f%2fcompass.esa.cognizant.com%2fpsp%2fESA89PRD%2f&PortalURI=https%3a%2f%2fcompass.esa.cognizant.com%2fpsc%2fESA89PRD%2f&PortalHostNode=ERP&NoCrumbs=yes&PortalKeyStruct=yes, line 1099: TypeError: document.getElementById(...) is null
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 27272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 27272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 27272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 27272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524259588584	geckodriver	INFO	geckodriver 0.20.1
+1524259588598	geckodriver	INFO	Listening on 127.0.0.1:64656
+1524259591635	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.W2zg5J2L45pE"
+1524259592396	Marionette	INFO	Enabled via --marionette
+1524259594758	Marionette	INFO	Listening on port 64664
+1524259594904	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 29688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 27992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 27252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524259747783	geckodriver	INFO	geckodriver 0.20.1
+1524259747795	geckodriver	INFO	Listening on 127.0.0.1:64768
+1524259750819	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.XB0hEq8tg1xD"
+1524259751704	Marionette	INFO	Enabled via --marionette
+1524259753700	Marionette	INFO	Listening on port 64776
+1524259754082	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 29652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524259777364	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1524259777370	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 29344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 29652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 19420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 24588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524259814262	geckodriver	INFO	geckodriver 0.20.1
+1524259814274	geckodriver	INFO	Listening on 127.0.0.1:64895
+1524259817308	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.UDySF0SRzqkx"
+1524259818054	Marionette	INFO	Enabled via --marionette
+1524259820102	Marionette	INFO	Listening on port 64903
+1524259820528	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 29116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 29116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524259859576	geckodriver	INFO	geckodriver 0.20.1
+1524259859589	geckodriver	INFO	Listening on 127.0.0.1:65019
+1524259862608	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.Fom0hanJO8Jq"
+1524259863340	Marionette	INFO	Enabled via --marionette
+1524259865446	Marionette	INFO	Listening on port 65027
+1524259865870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524259938482	geckodriver	INFO	geckodriver 0.20.1
+1524259938494	geckodriver	INFO	Listening on 127.0.0.1:65103
+1524259941508	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.OQy5ZSy7hT3G"
+1524259942252	Marionette	INFO	Enabled via --marionette
+1524259944164	Marionette	INFO	Listening on port 65111
+1524259944794	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 521: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 526: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 27312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 26772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+1524604248362	geckodriver	INFO	geckodriver 0.20.1
+1524604248372	geckodriver	INFO	Listening on 127.0.0.1:50834
+1524604251422	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.glwm8XeXTdwB"
+1524604252028	Marionette	INFO	Enabled via --marionette
+1524604253916	Marionette	INFO	Listening on port 50842
+1524604254652	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://compass.esa.cognizant.com/ESA89PRD/adrum-ext.2aed9d091ef08efa95822e864b4554d2.js, line 28: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 521: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 526: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524689227373	geckodriver	INFO	geckodriver 0.20.1
+1524689227383	geckodriver	INFO	Listening on 127.0.0.1:53611
+1524689230407	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.tw1WmypcMHNs"
+1524689231034	Marionette	INFO	Enabled via --marionette
+1524689232650	Marionette	INFO	Listening on port 53619
+1524689233528	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+1524689255959	geckodriver	INFO	geckodriver 0.20.1
+1524689255969	geckodriver	INFO	Listening on 127.0.0.1:53690
+1524689259020	mozrunner::runner	INFO	Running command: "C:\\Users\\TDesai\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TDesai\\AppData\\Local\\Temp\\rust_mozprofile.TKlVkSRlh1sn"
+1524689259680	Marionette	INFO	Enabled via --marionette
+1524689261148	Marionette	INFO	Listening on port 53698
+1524689262214	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://compass.esa.cognizant.com/ESA89PRD/adrum-ext.2aed9d091ef08efa95822e864b4554d2.js, line 28: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 521: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 526: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_PAGESCRIPT_FMODE_MIN_1.js, line 1194: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 521: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 526: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_CTXMENU_win0_MIN_1.js, line 461: unreachable code after return statement
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://compass.esa.cognizant.com/psc/ESA89PRD/EMPLOYEE/ERP/c/ADMINISTER_EXPENSE_FUNCTIONS.TE_TIME_ENTRY.GBL?Page=TE_TIME_MAIN&Action=A&EMPLID=430663&PERIOD_END_DT=2018-04-27&TIME_SHEET_ID=NEXT&VERSION_NUM=1&PortalActualURL=https%3a%2f%2fcompass.esa.cognizant.com%2fpsc%2fESA89PRD%2fEMPLOYEE%2fERP%2fc%2fADMINISTER_EXPENSE_FUNCTIONS.TE_TIME_ENTRY.GBL%3fPage%3dTE_TIME_MAIN%26Action%3dA%26EMPLID%3d430663%26PERIOD_END_DT%3d2018-04-27%26TIME_SHEET_ID%3dNEXT%26VERSION_NUM%3d1&PortalContentURL=https%3a%2f%2fcompass.esa.cognizant.com%2fpsc%2fESA89PRD%2fEMPLOYEE%2fERP%2fc%2fADMINISTER_EXPENSE_FUNCTIONS.TE_TIME_ENTRY.GBL&PortalContentProvider=ERP&PortalCRefLabel=Create&PortalRegistryName=EMPLOYEE&PortalServletURI=https%3a%2f%2fcompass.esa.cognizant.com%2fpsp%2fESA89PRD%2f&PortalURI=https%3a%2f%2fcompass.esa.cognizant.com%2fpsc%2fESA89PRD%2f&PortalHostNode=ERP&NoCrumbs=yes&PortalKeyStruct=yes, line 1099: TypeError: document.getElementById(...) is null
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\TDesai\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 521: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 526: unreachable code after return statement
+JavaScript warning: https://compass.esa.cognizant.com/cs/ESA89PRD/cache/PT_CTXMENU_win0_MIN_1.js, line 461: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://compass.esa.cognizant.com
