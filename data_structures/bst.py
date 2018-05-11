@@ -51,6 +51,11 @@ class BinarySearchTree(object):
         return 1 + max(leftheight, rightheight)
 
     def getHeight(self, root):
+        """
+        Returns the max number of edges in the tree
+        :param root: of the binary tree
+        :return: Max edges in the tree -> int
+        """
         if root is None:
             return 0
         height = max(self.getHeight(root.left), self.getHeight(root.right))
@@ -65,6 +70,21 @@ class BinarySearchTree(object):
         else:
             return False
 
+    def levelorder(self, root):
+        if not root:
+            print('Empty tree')
+        queue = list()
+        queue.append(root)
+        while queue:
+            elem = queue.pop(0)
+            print(elem.data, end=' ')
+            if elem.left:
+                queue.append(elem.left)
+            if elem.right:
+                queue.append(elem.right)
+
+
+
 def main():
     """
     Driver of the program
@@ -76,8 +96,9 @@ def main():
     bst.insert(5)
     bst.insert(7)
     bst.insert(12)
-    bst.preorder(bst.root)
-    bst.getHeight(bst.root)
+    # bst.preorder(bst.root)
+    # bst.getHeight(bst.root)
+    bst.levelorder(bst.root)
 
 
 if __name__ == '__main__':
