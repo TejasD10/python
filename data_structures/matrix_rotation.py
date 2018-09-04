@@ -14,21 +14,23 @@ def matrix_rotate(inp):
         if len(inp) != len(item):
             raise TypeError('Input matrix is not a square matrix')
 
-    layer, i = len(inp) // 2, 0  # Identify the layers in the matrix
-    for i in range(layer):
-        first = i
-        last = len(inp[i]) - i - 1
+    for layer in range(len(inp) // 2):
+        first = layer
+        last = len(inp) - layer - 1
         for k in range(first, last):
-            # Get the first element out in a temporary variable
-            temp = inp[first][k]
+            # top
+            top = inp[first][k]
 
-            inp[first][k] = inp[last - k][first]
+            # left -> top
+            inp[first][k] = inp[-k - 1][first]
 
-            inp[last - k][first] = inp[last][last - k]
+            # bottom -> left
+            inp[-k - 1][first] = inp[-first - 1][-k - 1]
 
-            inp[last][last - k] = inp[first + k][last]
+            # right -> bottom
+            inp[-first - 1][-k - 1] = inp[k][-first - 1]
 
-            inp[first + k][last] = temp
+            inp[k][-first - 1] = top
 
     return inp
 
@@ -38,14 +40,19 @@ class MatrixRotationTest(unittest.TestCase):
     Test Cases for rotating a matrix at 90 degrees
     """
     # Tuple for an input and output
-    data = [([[1, 2, 3, 4],
-              [5, 6, 7, 8],
-              [9, 10, 11, 12],
-              [13, 14, 15, 16]],
-             [[13, 9, 5, 1],
-              [14, 10, 6, 2],
-              [15, 11, 7, 3],
-              [16, 12, 8, 4]])]
+    data = [([
+            [1, 2, 3, 4, 5],
+            [6, 7, 8, 9, 10],
+            [11, 12, 13, 14, 15],
+            [16, 17, 18, 19, 20],
+            [21, 22, 23, 24, 25]
+        ], [
+            [21, 16, 11, 6, 1],
+            [22, 17, 12, 7, 2],
+            [23, 18, 13, 8, 3],
+            [24, 19, 14, 9, 4],
+            [25, 20, 15, 10, 5]
+        ])]
 
     # Non squared matrix
     data_non_square = [([[1, 2, 3],
