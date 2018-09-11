@@ -97,6 +97,9 @@ class LinkedList:
     def tail(self):
         return self._tail
 
+    def empty(self):
+        return self._size == 0
+
 
 class TestLinkedList(unittest.TestCase):
     """
