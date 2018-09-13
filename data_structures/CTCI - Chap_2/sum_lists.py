@@ -28,17 +28,67 @@ def sum_lists(l1, l2, carry):
     return new_list
 
 
+def _pad_zeros(l_list, count):
+    """
+    Pad zeros in front of the list to enable summation
+    :param l_list: Linked list to which the zeros must be padded
+    :param count: Number of zeros to be padded
+    :return: None
+    """
+    for i in range(count):
+        l_list.add_first(0)
+
+
+def sum_lists(l1, l2):
+    """
+    Suppose the digits are stored in forward order. Repeat the above problem.
+        Input: (6 -> 1 -> 7) + (2 -> 9 -> 5).That is,617 + 295.
+        Output: 9 -> 1 -> 2. That is, 912
+    :param l1: List 1
+    :param l2: List 2
+    :return: A tuple of Node and the carry
+    """
+    # Pad the shorter list with zeros in front
+    len_l1 = len(l1)
+    len_l2 = len(l2)
+
+    # If the lengths of the lists are not the same than we need the padding of zeros to the shorter list
+    if not len_l1 == len_l2:
+        _pad_zeros(l1 if len_l1 < len_l2 else l2, abs(len_l1 - len_l2))
+    _, new_list = _sum_list_helper(l1.head(), l2.head())
+    return new_list
+
+
+def _sum_list_helper(l1, l2):
+    if not l1 and not l2:
+        return 0, None
+
+    carry, node = _sum_list_helper(l1.next() if l1 else None, l2.next() if l2 else None)
+
+    node = LinkedList() if not node else node
+    node_sum = carry + (l1.value() if l1 else 0) + (l2.value() if l2 else 0)
+    node.add_first(node_sum % 10)
+    return node_sum // 10, node
+
+
 def main():
     l1 = LinkedList()
-    l1.add_last(8)
-    l1.add_last(3)
+    # l1.add_last(8)
+    # l1.add_last(3)
+    #
+    # l2 = LinkedList()
+    # l2.add_last(1)
+    # l2.add_last(1)
+    # l2.add_last(2)
+    #
+    # new_list = sum_lists(l1.head(), l2.head(), 0)
 
+    l1.generate_list(3, 1, 5)
     l2 = LinkedList()
-    l2.add_last(1)
-    l2.add_last(1)
-    l2.add_last(2)
-
-    new_list = sum_lists(l1.head(), l2.head(), 0)
+    l2.generate_list(2, 1, 5)
+    print(f'List 1 : {l1}')
+    print(f'List 2 : {l2}')
+    new_list = sum_lists(l1, l2)
     print(new_list)
 
 
