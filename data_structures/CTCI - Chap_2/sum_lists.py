@@ -55,7 +55,11 @@ def sum_lists(l1, l2):
     # If the lengths of the lists are not the same than we need the padding of zeros to the shorter list
     if not len_l1 == len_l2:
         _pad_zeros(l1 if len_l1 < len_l2 else l2, abs(len_l1 - len_l2))
-    _, new_list = _sum_list_helper(l1.head(), l2.head())
+    carry, new_list = _sum_list_helper(l1.head(), l2.head())
+
+    if carry > 0:
+        new_list.add_first(carry)
+
     return new_list
 
 
@@ -83,9 +87,9 @@ def main():
     #
     # new_list = sum_lists(l1.head(), l2.head(), 0)
 
-    l1.generate_list(3, 1, 5)
+    l1.generate_list(3, 7, 9)
     l2 = LinkedList()
-    l2.generate_list(2, 1, 5)
+    l2.generate_list(3, 7, 9)
     print(f'List 1 : {l1}')
     print(f'List 2 : {l2}')
     new_list = sum_lists(l1, l2)
