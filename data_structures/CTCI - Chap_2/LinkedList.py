@@ -1,11 +1,12 @@
-from random import randint
 import unittest
+from random import randint
 
 
 class LinkedList:
     """
     Implementation of a singly linked list
     """
+
     class _Node:
 
         def __init__(self, element, next=None):
@@ -20,6 +21,13 @@ class LinkedList:
 
         def value(self):
             return self._element
+
+        def __eq__(self, other):
+            print(f'type(self) = {type(self)} and other = {other}, {type(other)}')
+            return self._element == other
+
+        def __ne__(self, other):
+            return not self.__eq__(other)
 
     def __init__(self):
         self._head = None
@@ -100,11 +108,29 @@ class LinkedList:
     def empty(self):
         return self._size == 0
 
+    def clone_reverse(self, l_list):
+        """
+        Reverse and clone the linked list provided
+        :return: the new list which is a clone and reverse of the original list or an empty list if the source list is None or empty
+        """
+        if not l_list or l_list.empty():
+            return LinkedList()
+        new_list = LinkedList()
+        new_list.add_last(l_list.head().value())
+        old = l_list.head()
+        new = new_list.head()
+
+        while old.next():
+            old = old.next()
+            new_list.add_first(old)
+        return new_list
+
 
 class TestLinkedList(unittest.TestCase):
     """
     Test Cases for Linked List Class
     """
+
     def test_add_last(self):
         l_list = LinkedList()
         l_list.add_last(10)
