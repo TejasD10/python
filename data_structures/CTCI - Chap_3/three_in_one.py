@@ -111,7 +111,9 @@ class MultiStack:
 
 
 class TestMultiStack(unittest.TestCase):
-    stacks = MultiStack(3)
+
+    def setUp(self):
+        self.stacks = MultiStack(3)
 
     def test_insert_item_on_stack(self):
         self.assertIsNotNone(self.stacks.push(0, 10))
