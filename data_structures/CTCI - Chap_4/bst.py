@@ -55,12 +55,27 @@ class BinarySearchTree:
         post.append(root.data)
         return post
 
+    def __iter__(self):
+        if not self.root:
+            return None
+        for item in self.preorder(self.root):
+            yield str(item)
+
+    def preorder(self, root):
+        yield root
+        if root.left:
+            for item in self.preorder(root.left):
+                yield item
+        if root.right:
+            for item in self.preorder(root.right):
+                yield item
+
     def __str__(self):
         """
         Represents the pre-order string representation of the BST
         :return:
         """
-        return ' -> '.join(str(item) for item in self.preorder(self.root, list()))
+        return ' -> '.join(str(item) for item in self)
 
     def insert(self, value):
         """
@@ -150,3 +165,12 @@ class TestBinarySearchTree(unittest.TestCase):
         self.bst.insert(16)
         self.bst.insert(11)
         self.assertEqual(3, self.bst.height())
+
+    def test_preorder(self):
+        self.bst.insert(15)
+        self.bst.insert(13)
+        self.bst.insert(17)
+        self.bst.insert(10)
+        self.bst.insert(16)
+        self.bst.insert(11)
+        print(self.bst)
