@@ -11,6 +11,7 @@ class BSTTree(Tree):
     Inherits from the Binary Tree and adds an additional method to check if
     the tree is a Binary Search Tree
     """
+    last_value = None
 
     def is_bst(self, root, node_min=-sys.maxsize, node_max=sys.maxsize):
 
@@ -34,6 +35,28 @@ class BSTTree(Tree):
         return self.is_bst(root.left, node_min=node_min, node_max=root.data - 1) and (
             self.is_bst(root.right, node_min=root.data + 1, node_max=node_max))
 
+    def is_bst_inorder(self, root):
+        """
+        Check if the binary tree is BST while traversing in-order in the tree
+        :param root: root node of the tree
+        :return: True if the BT is a BST, False otherwise
+                        8
+                4              10
+            2       5             6
+
+        In-Order - 2 4 5 8 10 6
+        """
+        if not root:
+            return True
+        if not self.is_bst_inorder(root.left):
+            return False
+        if BSTTree.last_value and BSTTree.last_value >= root.data:
+            return False
+        BSTTree.last_value = root.data
+        if not self.is_bst_inorder(root.right):
+            return False
+        return True
+
 
 class TestTree(unittest.TestCase):
     def setUp(self):
@@ -47,4 +70,4 @@ class TestTree(unittest.TestCase):
         self.tree.add_right(4, 5)
         # self.tree.add_left(10, 13)
         self.tree.add_right(10, 6)
-        self.assertFalse(self.tree.is_bst(self.tree.root))
+        self.assertFalse(self.tree.is_bst_inorder(self.tree.root))
