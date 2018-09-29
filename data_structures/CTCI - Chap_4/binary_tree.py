@@ -1,6 +1,8 @@
 """
 Implementation of a binary tree
 """
+
+
 class Node:
     def __init__(self, value):
         self.left = self.right = None
