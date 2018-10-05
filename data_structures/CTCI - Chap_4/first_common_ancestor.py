@@ -32,8 +32,8 @@ def first_common_ancestor(root, v1, v2):
         return
 
     # Find the nodes in the tree
-    node_v1 = search(root, v1)
-    node_v2 = search(root, v2)
+    node_v1 = search_list(root, v1)
+    node_v2 = search_list(root, v2)
 
     # Remove the extra nodes from the path
     diff = abs(len(node_v1) - len(node_v2))
@@ -51,7 +51,91 @@ def first_common_ancestor(root, v1, v2):
         node_v2.pop(0)
 
 
+def find_common_ancestor(root, v1, v2):
+    """
+    Find the common anecestor in a tree where the nodes does not have links to its parents
+    :param root: root of the tree
+    :param v1:
+    :param v2:
+    :return: Common ancestor of v1 and v2 if it exists, None otherwise
+    """
+    if not search(root, v1) or not search(root, v2):
+        return
+    return find_common_ancestor_rec(root, v1, v2)
+
+
+def find_common_ancestor_rec(root, v1, v2):
+    if not root:
+        return
+
+    if search(root.left, v1) and search(root.left, v2):
+        return find_common_ancestor_rec(root.left, v1, v2)
+    elif search(root.right, v1) and search(root.right, v2):
+        return find_common_ancestor_rec(root.right, v1, v2)
+    else:
+        return root.data
+
+
+def first_common_ancestor_opt(root, v1, v2):
+    """
+    :param root:
+    :param v1:
+    :param v2:
+    :return:
+    """
+    # make sure both the nodes are in tree
+    node_v1 = search(root, v1)
+    node_v2 = search(root, v2)
+
+    # If either node is not present, return None
+    if not node_v1 or not node_v2:
+        return
+
+    # check if one node covers the other, if so return one
+    if search(node_v1, v2):
+        return v1
+    if search(node_v2, v1):
+        return v2
+
+    # Traverse up the route from v1 and check if the sibling of the parent
+    # has the node v2, in which case the parent will be the needed ancestor
+
+    p = node_v1.parent
+    child = node_v1
+
+    while p:
+        sib = sibling(p, child)
+        if search(sib, v2):
+            return p.data  # p is the ancestor
+        child = p
+        p = p.parent
+
+
+def sibling(parent, child):
+    """
+    FInd the sibling of the parent which is not the child
+    :param parent:
+    :param child:
+    :return:
+    """
+    if not parent or not child:
+        return
+
+    return parent.left if parent.left != child else parent.right
+
+
 def search(root, v1):
+    # search one of the nodes in the tree
+    if not root:
+        return
+
+    if root.data == v1:
+        return root
+
+    return search(root.left, v1) or search(root.right, v1)
+
+
+def search_list(root, v1):
     """
     Search for values v1 and v2 in the tree
     :param root: root of the tree to be searched
@@ -64,11 +148,11 @@ def search(root, v1):
 
     if root.data == v1:
         return [root.data]
-    left = search(root.left, v1)
+    left = search_list(root.left, v1)
     if left:
         left.append(root.data)
         return left
-    right = search(root.right, v1)
+    right = search_list(root.right, v1)
     if right:
         right.append(root.data)
         return right
@@ -96,3 +180,16 @@ class TestFirstCommonAncestor(unittest.TestCase):
         self.assertEqual(1, first_common_ancestor(self.root, 4, 6))
         self.assertEqual(1, first_common_ancestor(self.root, 4, 3))
         self.assertEqual(2, first_common_ancestor(self.root, 4, 2))
+
+    def test_first_common_ancestor_opt(self):
+        self.assertEqual(2, first_common_ancestor_opt(self.root, 4, 5))
+        self.assertEqual(1, first_common_ancestor_opt(self.root, 4, 6))
+        self.assertEqual(1, first_common_ancestor_opt(self.root, 4, 3))
+        self.assertEqual(2, first_common_ancestor_opt(self.root, 4, 2))
+
+    def test_find_common_ancestor_rec(self):
+        self.assertEqual(2, find_common_ancestor(self.root, 4, 5))
+        self.assertEqual(1, find_common_ancestor(self.root, 4, 6))
+        self.assertEqual(1, find_common_ancestor(self.root, 4, 3))
+        self.assertEqual(2, find_common_ancestor(self.root, 4, 2))
+        self.assertIsNone(find_common_ancestor(self.root, 4, 8))
