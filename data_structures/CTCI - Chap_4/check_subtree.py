@@ -22,13 +22,15 @@ def is_subtree_preorder(root_t1, root_t2):
     t2 = []
     preorder(root_t1, t1)
     preorder(root_t2, t2)
+    t1_str = ''.join(str(item) for item in t1)
+    t2_str = ''.join(str(item) for item in t2)
 
-    return all(item in t1 for item in t2)
+    return t1_str.find(t2_str) != -1
 
 
 def preorder(root, p_list):
     if not root:
-        p_list.append(None)
+        p_list.append('X')
         return
     p_list.append(root.data)
     preorder(root.left, p_list)
