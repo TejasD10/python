@@ -1,6 +1,6 @@
 import unittest
 
-from exceptions import EmptyStackException
+from misc.exceptions import EmptyStackException
 
 
 class Stack:

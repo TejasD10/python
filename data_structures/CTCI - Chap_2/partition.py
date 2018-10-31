@@ -1,4 +1,4 @@
-from LinkedList import LinkedList
+from misc.LinkedList import LinkedList
 
 
 def partition(l_list, part_key):

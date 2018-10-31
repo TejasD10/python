@@ -1,6 +1,6 @@
 import unittest
 
-from LinkedList import LinkedList
+from misc.LinkedList import LinkedList
 
 
 def is_palindrome(l_list):

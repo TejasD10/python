@@ -1,4 +1,4 @@
-from LinkedList import LinkedList
+from misc.LinkedList import LinkedList
 
 
 def sum_lists(l1, l2, carry):

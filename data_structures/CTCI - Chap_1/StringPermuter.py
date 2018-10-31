@@ -23,7 +23,7 @@ def permute(inp):
 
 
 def insert_char_at(first, word ,j):
-    return word[0:j] + first + word[j:]
+    return word[:j] + first + word[j:]
 
 
 if __name__ == '__main__':

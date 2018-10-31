@@ -1,4 +1,4 @@
-from LinkedList import LinkedList
+from misc.LinkedList import LinkedList
 
 
 def remove_dups(l_list):
